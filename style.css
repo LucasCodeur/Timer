@@ -1,0 +1,24 @@
+body {
+background-color: #303030;
+padding-top: 10em;
+}
+h1 {
+    text-align: center;
+    color:bisque;
+}
+form {
+text-align: center;
+}
+
+#hour, #minute, #second, #millisecond {
+    color:white;
+    font-size: 2em;
+    justify-content: center;
+    align-items: center;
+
+}
+
+button {
+    width: 200px;
+    height: 200px;
+}
